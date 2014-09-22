@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\pre-dexed\debug\classes-78b4c2194a20a6e17e540da6a223680ad5641f83.jar"
+        jar="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\exploded-aar\Letstalk\memorizingActivity\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="56478bd74143fc8601abc430f7d6185a627aa692"/>
+    <item
+        dex="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\pre-dexed\debug\otr4j-0.10-af98ad1272750a7900bbcf939e0f2eb3d6750fb4.jar"
+        jar="D:\AndroidstudioProjects\Letstalk\letstalk\libs\otr4j-0.10.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a9533922441c927ea61d1b0d01a1199046e2e2c6"/>
+    <item
+        dex="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\pre-dexed\debug\classes-26ca012ba437feaf517ea1021341aabaab13dc2b.jar"
+        jar="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\exploded-aar\Letstalk\openpgpapilib\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="46fc6059500c16947e85bee4715f5db62c69e985"/>
+    <item
+        dex="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\pre-dexed\debug\classes-d6e90fdd9a7066029f8b8c1a79cb18dba8eb9913.jar"
+        jar="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\exploded-aar\Letstalk\minidns\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6a5edc529db2715b0fb3862ab8e5496748f4b5cf"/>
+    <item
+        dex="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\pre-dexed\debug\android-support-v13-16ff31c67fa14fcac07ea56679b217aebc6d0e50.jar"
+        jar="D:\AndroidstudioProjects\Letstalk\letstalk\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f5fa2183e286730a81f3076f19022539902a24f3"/>
+    <item
+        dex="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\pre-dexed\debug\bcprov-jdk15on-150-945a234dfaeb337f90fdf0087568658475fa5e17.jar"
+        jar="D:\AndroidstudioProjects\Letstalk\letstalk\libs\bcprov-jdk15on-150.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="be504b4901d75cbe129a178f5830e6c358ec214c"/>
+
+</pre-dex-items>

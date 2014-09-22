@@ -1,0 +1,4 @@
+include ':memorizingActivity'
+include ':minidns'
+include ':openpgpapilib'
+include ':letstalk'

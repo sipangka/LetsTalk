@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\exploded-aar\Letstalk\memorizingActivity\unspecified\assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\exploded-aar\Letstalk\openpgpapilib\unspecified\assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="D:\AndroidstudioProjects\Letstalk\letstalk\build\intermediates\exploded-aar\Letstalk\minidns\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="D:\AndroidstudioProjects\Letstalk\letstalk\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\AndroidstudioProjects\Letstalk\letstalk\src\debug\assets" />
+    </dataSet>
+
+</merger>

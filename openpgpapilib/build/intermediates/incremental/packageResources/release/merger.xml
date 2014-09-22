@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res" >
+            <file
+                name="ic_action_cancel_launchersize"
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\drawable-hdpi\ic_action_cancel_launchersize.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel_launchersize_light"
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\drawable-hdpi\ic_action_cancel_launchersize_light.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel_launchersize"
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\drawable-mdpi\ic_action_cancel_launchersize.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel_launchersize_light"
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\drawable-mdpi\ic_action_cancel_launchersize_light.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel_launchersize"
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\drawable-xhdpi\ic_action_cancel_launchersize.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel_launchersize_light"
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\drawable-xhdpi\ic_action_cancel_launchersize_light.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel_launchersize"
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\drawable-xxhdpi\ic_action_cancel_launchersize.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_cancel_launchersize_light"
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\drawable-xxhdpi\ic_action_cancel_launchersize_light.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="openpgp_list_preference_none" >None
+                </string>
+                <string name="openpgp_install_openkeychain_via" >Install OpenKeychain via %s
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-cs\strings.xml"
+                qualifiers="cs" >
+                <string name="openpgp_list_preference_none" >Žádný
+                </string>
+                <string name="openpgp_install_openkeychain_via" >Instalovat OpenKeychain pomocí %s
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-de\strings.xml"
+                qualifiers="de" >
+                <string name="openpgp_list_preference_none" >Keine Auswahl
+                </string>
+                <string name="openpgp_install_openkeychain_via" >Installiere OpenKeychain mit %s
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-es\strings.xml"
+                qualifiers="es" >
+                <string name="openpgp_list_preference_none" >Ninguno
+                </string>
+                <string name="openpgp_install_openkeychain_via" >Instalar OpenKeychain mediante %s
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-fr\strings.xml"
+                qualifiers="fr" >
+                <string name="openpgp_install_openkeychain_via" >Installer OpenKeychain par %s
+                </string>
+                <string name="openpgp_list_preference_none" >Aucun
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-it\strings.xml"
+                qualifiers="it" >
+                <string name="openpgp_install_openkeychain_via" >Installa OpenKeychain via %s
+                </string>
+                <string name="openpgp_list_preference_none" >Nessuno
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-ja\strings.xml"
+                qualifiers="ja" >
+                <string name="openpgp_install_openkeychain_via" >%s 経由でOpenKeychainをインストール
+                </string>
+                <string name="openpgp_list_preference_none" >無し
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-ru\strings.xml"
+                qualifiers="ru" >
+                <string name="openpgp_list_preference_none" >Нет
+                </string>
+                <string name="openpgp_install_openkeychain_via" >Установить OpenKeychain через %s
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-sl\strings.xml"
+                qualifiers="sl" >
+                <string name="openpgp_list_preference_none" >Brez
+                </string>
+                <string name="openpgp_install_openkeychain_via" >Namesti OpenKeychain prek %s
+                </string>
+            </file>
+            <file
+                path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\main\res\values-uk\strings.xml"
+                qualifiers="uk" >
+                <string name="openpgp_install_openkeychain_via" >Встановити OpenKeychain через %s
+                </string>
+                <string name="openpgp_list_preference_none" >Жоден
+                </string>
+            </file>
+        </source>
+        <source path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\build\generated\res\rs\release" />
+        <source path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\build\generated\res\generated\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="D:\AndroidstudioProjects\Letstalk\openpgpapilib\src\release\res" />
+    </dataSet>
+
+</merger>

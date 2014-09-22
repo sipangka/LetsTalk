@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="otr4j-0.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/letstalk/libs/otr4j-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
