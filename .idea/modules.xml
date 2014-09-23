@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Letstalk.iml" filepath="$PROJECT_DIR$/Letstalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letstalk/letstalk.iml" filepath="$PROJECT_DIR$/letstalk/letstalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memorizingActivity/memorizingActivity.iml" filepath="$PROJECT_DIR$/memorizingActivity/memorizingActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minidns/minidns.iml" filepath="$PROJECT_DIR$/minidns/minidns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openpgpapilib/openpgpapilib.iml" filepath="$PROJECT_DIR$/openpgpapilib/openpgpapilib.iml" />
+    </modules>
   </component>
 </project>
 
